@@ -1,0 +1,22 @@
+/dts-v1/;
+/plugin/;
+/ {
+	fragment@0 {
+			target-path = "/";
+			__overlay__ {
+				led_blink: led@44e07000 {
+					compatible = "led_blink";
+					reg = <0x44E07000 0x1000 >;
+					status = "okay";
+				};
+			};
+	};
+};
+
+	    
+	
+	
+	
+	
+	
+
