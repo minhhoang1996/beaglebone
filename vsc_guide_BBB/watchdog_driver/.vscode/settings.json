@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "mod_devicetable.h": "c",
+        "types.h": "c",
+        "watchdog.h": "c",
+        "slab.h": "c",
+        "pm_runtime.h": "c",
+        "omap-wd-timer.h": "c",
+        "moduleparam.h": "c",
+        "platform_device.h": "c",
+        "err.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
